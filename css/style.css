@@ -1,7 +1,16 @@
-.card{
-    margin: 30px;
+.sub-title img,.info {
+	width: 60%;
+	margin: 0 auto;
+	display: block;
 }
-.card {
-	height: 600px;
-	width: 400px;
+.logo img {
+	width: 25%;
+	display: block;
+	margin: 0 auto;
+}
+.human-milk img {
+	display: block;
+	margin: 0 auto;
+	width: 80%;
+	cursor: pointer;
 }
